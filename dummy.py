@@ -3,12 +3,18 @@ import math
 
 # Función para calcular el cuadrado de un número
 def calcular_cuadrado(numero):
-    """Devuelve el cuadrado del número dado."""
+    """Devuelve el cuadrado del número dado.
+    texto
+    texto
+    texto"""
     return numero ** 2
 
 # Función para calcular el área de un círculo
 def calcular_area_circulo(radio):
-    """Devuelve el área de un círculo dado su radio."""
+    '''Devuelve el área de un círculo dado su radio.
+    lalala
+    lalala
+    '''
     return math.pi * (radio ** 2)
 
 # Función principal para demostrar la funcionalidad
